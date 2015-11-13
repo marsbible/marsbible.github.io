@@ -1,5 +1,5 @@
 title:            marble.code
-description:      "码农|土产|爱扯淡"
+description:      "Bullshit Overflow"
 disqus_shortname: marble
 reading_time:     true
 words_per_minute: 200
@@ -11,7 +11,7 @@ url: https://marsbible.github.io
 owner:
   name:           marble 
   avatar:         avatar.jpg
-  bio:            "年过而立，有妻有娃，没啥特长，搞搞开发"
+  bio:            "老码畜的一亩三分地"
   email:          redshift@outlook.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
