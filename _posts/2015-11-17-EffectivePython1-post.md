@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [Python]了解bytes,str和unicode的区别
+title: 【高效Python】了解bytes,str和unicode的区别
 modified: 2015-11-17
 tags: [Python]
 ---
