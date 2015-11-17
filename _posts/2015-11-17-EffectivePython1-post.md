@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 了解bytes,str和unicode的区别
+title: [Python]了解bytes,str和unicode的区别
 modified: 2015-11-17
-tags: [python]
+tags: [Python]
 ---
 
 Python 3里使用**bytes**和**str**来表示字符序列，其中**bytes**包含8-bit字节序列，**str**包含Unicode字符序列。
