@@ -48,15 +48,15 @@ tags: [题目]
 a square’s vertex, and end at a midpoint of the square’s side. If the side of the square has a length
 of 1, then what is the area of the shaded region?
 
-    A. 2/7
+   A. 2/7
 
-    B. 1/4
+   B. 1/4
 
-    C. 1/5 
+   C. 1/5 
 
-    D. 1/9
+   D. 1/9
 
-    E. None of the above
+   E. None of the above
 
 
 5. A Double Tower of Hanoi contains twice the number of disk as the regular Tower of Hanoi  
@@ -67,42 +67,42 @@ Putting a same-sized disk onto another is okay. If we are required to reproduce 
 top-to-bottom order arrangement, how many moves (minimal) does it take? Remember, disks of  
 equal size need to be in original order, and cannot be inversed.  
 
-    A. 122nn.+
+   A. 122nn.+
 
-    B. 221n.
+   B. 221n.
 
-    C. (1)22n+.
+   C. (1)22n+.
 
-    D. (2)25n+.
+   D. (2)25n+.
 
-    E. 2*+1 (1)3n.
+   E. 2*+1 (1)3n.
 
 6. A binary tree has 7 nodes, which are denoted as A, B, C, D, E, F, and G. When the tree is walked  
 in pre-order, the route is A-B-D-G-C-E-F. When this tree is wealked in in-order, the route is  
 D-G-B-A-E-C-F. Which of the following is the correct route when the tree is walked in  
 post-order?
 
-    A. A-B-D-G-E-F-C
+   A. A-B-D-G-E-F-C
 
-    B. G-D-B-A-E-F-C
+   B. G-D-B-A-E-F-C
 
-    C. D-B-G-A-C-E-F
+   C. D-B-G-A-C-E-F
 
-    D. G-D-B-E-F-C-A
+   D. G-D-B-E-F-C-A
 
-    E. None of the above
+   E. None of the above
 
 7. Which of following entities CANNOT be shared by multiple threads of a process?  
 
-    A. Data section  
+   A. Data section  
 
-    B. Thread-local variables  
+   B. Thread-local variables  
 
-    C. Register set  
+   C. Register set  
 
-    D. Stack  
+   D. Stack  
 
-    E. None of the above  
+   E. None of the above  
 
 
 8. Which of following numbers(in base 3) is closest to decimal number 0.8889?  
@@ -120,15 +120,15 @@ post-order?
 9. For an IA-32 system, which of following choices is the correct order according to the memory  
 layout of a Linux program, from lower address to higher address?  
 
-    A. Heap, Stack, Text  
+   A. Heap, Stack, Text  
 
-    B. Text, Heap, Stack  
+   B. Text, Heap, Stack  
 
-    C. Heap, Text, Stack  
+   C. Heap, Text, Stack  
 
-    D. Text, Stack, Heap  
+   D. Text, Stack, Heap  
 
-    E. Stack, Heap, Text  
+   E. Stack, Heap, Text  
 
 
 10. In C, someone writes the following function to reverse a one-dimensional array. For example,  
@@ -176,20 +176,20 @@ Which of the following statements is correct when you compile and run this progr
   E. None of the above  
 
 
- 11. Assume you have two singly linked lists, denoted as L1 and L2. It is possible that L1 and L2  
+11. Assume you have two singly linked lists, denoted as L1 and L2. It is possible that L1 and L2  
 meet on some node and have a common tail. If L1 has m nodes and L2 has n nodes, then what is  
 the best time complexity to check if the two linked lists meet and to find out the meeting point?  
 (Only O(1) constant amont of extra storage space is allowed.)  
 
-    A. O((m+n)*log(m+n))  
+   A. O((m+n)*log(m+n))  
 
-    B. O(m*n)  
+   B. O(m*n)  
 
-    C. O(m+n)  
+   C. O(m+n)  
 
-    D. O((m+n)*log(m*n))  
+   D. O((m+n)*log(m*n))  
 
-    E. O(log(m*n))  
+   E. O(log(m*n))  
 
 12. There are n green buckets and n red buckets. Each green bucket is of a different size, but for  
 every green bucket, there is a corresponding red bucket of the same size. What is the AVERAGE  
