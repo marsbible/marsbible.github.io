@@ -175,7 +175,8 @@ Which of the following statements is correct when you compile and run this progr
 
   E. None of the above  
 
-11. Assume you have two singly linked lists, denoted as L1 and L2. It is possible that L1 and L2  
+
+ 11. Assume you have two singly linked lists, denoted as L1 and L2. It is possible that L1 and L2  
 meet on some node and have a common tail. If L1 has m nodes and L2 has n nodes, then what is  
 the best time complexity to check if the two linked lists meet and to find out the meeting point?  
 (Only O(1) constant amont of extra storage space is allowed.)  
