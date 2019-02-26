@@ -5,7 +5,7 @@ modified: 2015-11-20
 tags: [算法]
 ---
 
-###KMP实现
+### KMP实现
 {% highlight c %}
 void preKMP_CLRS(char *P){
     int j, k;
@@ -64,7 +64,7 @@ void KMP_CLRS_2(char *T, char *P, int start){
 }
 {% endhighlight %}
 
-###QuickSort实现
+### QuickSort实现
 {% highlight c %}
 void quicksort(Item a[], int l, int r)
 {
@@ -84,7 +84,7 @@ void quicksort(Item a[], int l, int r)
 }
 {% endhighlight %}
 
-###BinarySearch实现
+### BinarySearch实现
 {% highlight c %}
 int binary_search(int[] A, int key, int imin, int imax)  
 {
