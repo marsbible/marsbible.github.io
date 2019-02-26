@@ -32,8 +32,7 @@ tags: [题目]
 
     E. None of the above  
 
-6. There are 5 balls making a ring. Each ball is red or white, with equal probability. What is the  
-probability that no two red balls are adjacent to each other in this ring?  
+6. There are 5 balls making a ring. Each ball is red or white, with equal probability. What is the probability that no two red balls are adjacent to each other in this ring?  
 
     A. 7/32  
 
@@ -47,16 +46,20 @@ probability that no two red balls are adjacent to each other in this ring?
 
 7. As shown in the following figure, the shaed region is enclose by four lines, which all start from  
 a square’s vertex, and end at a midpoint of the square’s side. If the side of the square has a length
-of 1, then what is the area of the shaded region?  
+of 1, then what is the area of the shaded region?
 
 <figure class="half">
 	<img src="/images/posts/0_1323070407HgXu.png" alt="">
 </figure>
 
     A. 2/7  
+
     B. 1/4  
+
     C. 1/5  
+
     D. 1/9  
+
     E. None of the above  
 
 8. A Double Tower of Hanoi contains twice the number of disk as the regular Tower of Hanoi  
