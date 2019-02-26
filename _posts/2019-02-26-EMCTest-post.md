@@ -35,11 +35,11 @@ tags: [题目]
 a square’s vertex, and end at a midpoint of the square’s side. If the side of the square has a length
 of 1, then what is the area of the shaded region?
 
-  A. 2/7  
-  B. 1/4  
-  C. 1/5  
-  D. 1/9  
-  E. None of the above  
+   A. 2/7  
+   B. 1/4  
+   C. 1/5  
+   D. 1/9  
+   E. None of the above  
    
 5. A Double Tower of Hanoi contains twice the number of disk as the regular Tower of Hanoi  
 problem, where each disk size appears twice. So there are 2n disks, of n different sizes (n>0). As  
@@ -134,7 +134,7 @@ Which of the following statements is correct when you compile and run this progr
 meet on some node and have a common tail. If L1 has m nodes and L2 has n nodes, then what is  
 the best time complexity to check if the two linked lists meet and to find out the meeting point?  
 (Only O(1) constant amont of extra storage space is allowed.)  
-
+    
    A. O((m+n)*log(m+n))  
    B. O(m*n)  
    C. O(m+n)  
@@ -146,7 +146,7 @@ every green bucket, there is a corresponding red bucket of the same size. What i
 time complexity to find all matching buckets pairs(red and green bucket of the same size) if the  
 comparisons between buckets of same color are forbiden. (Only O(1) constant amount of extra  
 storage space is allowed.)  
-
+    
    A. O(n)      
    B. O(log(n))      
    C. O(n*n)      
