@@ -35,9 +35,7 @@ tags: [题目]
 a square’s vertex, and end at a midpoint of the square’s side. If the side of the square has a length
 of 1, then what is the area of the shaded region?
 
-<figure>
-    <img src="/images/posts/0_1323070407HgXu.png" alt="">
-</figure>
+![avatar](/images/posts/0_1323070407HgXu.png)
 
    A. 2/7  
    B. 1/4  
