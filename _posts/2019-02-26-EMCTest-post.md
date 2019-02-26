@@ -48,11 +48,11 @@ probability that no two red balls are adjacent to each other in this ring?
 7. As shown in the following figure, the shaed region is enclose by four lines, which all start from  
 a square’s vertex, and end at a midpoint of the square’s side. If the side of the square has a length
 of 1, then what is the area of the shaded region?  
-```html
+
 <figure class="half">
 	<img src="/images/posts/0_1323070407HgXu.png" alt="">
 </figure>
-```
+
     A. 2/7  
     B. 1/4  
     C. 1/5  
