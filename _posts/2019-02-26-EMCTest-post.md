@@ -48,19 +48,20 @@ tags: [题目]
 a square’s vertex, and end at a midpoint of the square’s side. If the side of the square has a length
 of 1, then what is the area of the shaded region?
 
+    A. 2/7
+
+    B. 1/4
+
+    C. 1/5 
+
+    D. 1/9
+
+    E. None of the above
+
 <figure>
     <img src="/images/posts/0_1323070407HgXu.png" alt="">
 </figure>
 
-    A. 2/7  
-
-    B. 1/4  
-
-    C. 1/5  
-
-    D. 1/9  
-
-    E. None of the above  
 
 8. A Double Tower of Hanoi contains twice the number of disk as the regular Tower of Hanoi  
 problem, where each disk size appears twice. So there are 2n disks, of n different sizes (n>0). As  
