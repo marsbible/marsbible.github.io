@@ -17,11 +17,11 @@ tags: [题目]
 
 2. If F(n)=50!*5^n(5^n是5的n次方的意思), (n is positive integer), what number is the least value of n such that F(n) and F(n+1) have the same number of trailing 0’s (F(n) is represented in decimal)? 
 
-   A. 34 
-   B. 35 
-   C. 36  
-   D. 37 
-   E. None of the above  
+   A. 34  
+   B. 35  
+   C. 36   
+   D. 37  
+   E. None of the above   
     
 3. There are 5 balls making a ring. Each ball is red or white, with equal probability. What is the probability that no two red balls are adjacent to each other in this ring?  
 
@@ -35,11 +35,11 @@ tags: [题目]
 a square’s vertex, and end at a midpoint of the square’s side. If the side of the square has a length
 of 1, then what is the area of the shaded region?
 
-  A. 2/7 
-  B. 1/4 
-  C. 1/5 
-  D. 1/9 
-  E. None of the above 
+  A. 2/7  
+  B. 1/4  
+  C. 1/5  
+  D. 1/9  
+  E. None of the above  
    
 5. A Double Tower of Hanoi contains twice the number of disk as the regular Tower of Hanoi  
 problem, where each disk size appears twice. So there are 2n disks, of n different sizes (n>0). As  
@@ -49,22 +49,22 @@ Putting a same-sized disk onto another is okay. If we are required to reproduce 
 top-to-bottom order arrangement, how many moves (minimal) does it take? Remember, disks of  
 equal size need to be in original order, and cannot be inversed.  
 
-   A. 122nn.+ 
-   B. 221n. 
-   C. (1)22n+. 
-   D. (2)25n+. 
-   E. 2*+1 (1)3n. 
+   A. 122nn.+   
+   B. 221n.  
+   C. (1)22n+.  
+   D. (2)25n+.  
+   E. 2*+1 (1)3n.  
     
 6. A binary tree has 7 nodes, which are denoted as A, B, C, D, E, F, and G. When the tree is walked  
 in pre-order, the route is A-B-D-G-C-E-F. When this tree is wealked in in-order, the route is  
 D-G-B-A-E-C-F. Which of the following is the correct route when the tree is walked in  
 post-order?
 
-   A. A-B-D-G-E-F-C 
-   B. G-D-B-A-E-F-C 
-   C. D-B-G-A-C-E-F 
-   D. G-D-B-E-F-C-A 
-   E. None of the above 
+   A. A-B-D-G-E-F-C   
+   B. G-D-B-A-E-F-C   
+   C. D-B-G-A-C-E-F   
+   D. G-D-B-E-F-C-A   
+   E. None of the above   
     
 7. Which of following entities CANNOT be shared by multiple threads of a process?  
    
