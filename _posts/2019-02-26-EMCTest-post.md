@@ -164,15 +164,15 @@ int reverse_array(int *list, int len){
 
 Which of the following statements is correct when you compile and run this program?  
 
-    A. Compilation error appears 
+  A. Compilation error appears 
 
-    B. Program runs correctly  
+  B. Program runs correctly  
 
-    C. Program runs correctly when length of input array is odd.  
+  C. Program runs correctly when length of input array is odd.  
 
-    D. Program runs correctly when length of input array is even.  
+  D. Program runs correctly when length of input array is even.  
 
-    E. None of the above  
+  E. None of the above  
 
 18. Assume you have two singly linked lists, denoted as L1 and L2. It is possible that L1 and L2  
 meet on some node and have a common tail. If L1 has m nodes and L2 has n nodes, then what is  
@@ -249,11 +249,11 @@ storage space is allowed.)
 
 10. D
 
-   对Thread Local Var和Register Set不太清楚，查了一下，应该是共享的，支持写时复制功能
+    对Thread Local Var和Register Set不太清楚，查了一下，应该是共享的，支持写时复制功能
  
 13. D
 
-   基本常识
+    基本常识
 
 15. B 
 
