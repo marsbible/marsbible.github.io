@@ -94,36 +94,36 @@ layout of a Linux program, from lower address to higher address?
 10. In C, someone writes the following function to reverse a one-dimensional array. For example,  
 when the input is {1,2,3,4,5}, then the result should be {5,4,3,2,1}.  
      
-    int reverse_array(int *list, int len){
+   int reverse_array(int *list, int len){
 
-     int *p1,*p2;  
+   int *p1,*p2;  
 
-     int temp;  
+   int temp;  
 
-     if(len<=0) return -1;  
+   if(len<=0) return -1;  
 
-     p1 = list;
+   p1 = list;
 
-     p2 = list + n -1;
-     while(p1!=p2){  
+   p2 = list + n -1;
+   while(p1!=p2){  
 
-     temp=*p1;  
+   temp=*p1;  
 
-     *p1=*p2;  
+   *p1=*p2;  
 
-     *p2=temp;  
+   *p2=temp;  
 
-     p1++;  
+   p1++;  
 
-     p2--;  
+   p2--;  
 
-     }  
+   }  
 
-     Return 0;  
-    }  
+   Return 0;  
+   }  
     
-   Which of the following statements is correct when you compile and run this program?  
-
+Which of the following statements is correct when you compile and run this program?  
+    
    A. Compilation error appears  
    B. Program runs correctly  
    C. Program runs correctly when length of input array is odd.  
