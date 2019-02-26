@@ -58,10 +58,6 @@ of 1, then what is the area of the shaded region?
 
     E. None of the above
 
-<figure>
-    <img src="/images/posts/0_1323070407HgXu.png" alt="">
-</figure>
-
 
 8. A Double Tower of Hanoi contains twice the number of disk as the regular Tower of Hanoi  
 problem, where each disk size appears twice. So there are 2n disks, of n different sizes (n>0). As  
