@@ -93,7 +93,7 @@ layout of a Linux program, from lower address to higher address?
     
 10. In C, someone writes the following function to reverse a one-dimensional array. For example,  
 when the input is {1,2,3,4,5}, then the result should be {5,4,3,2,1}.  
-
+     
     int reverse_array(int *list, int len){
 
      int *p1,*p2;  
@@ -121,8 +121,8 @@ when the input is {1,2,3,4,5}, then the result should be {5,4,3,2,1}.
 
      Return 0;  
     }  
-
-Which of the following statements is correct when you compile and run this program?  
+    
+   Which of the following statements is correct when you compile and run this program?  
 
    A. Compilation error appears  
    B. Program runs correctly  
@@ -134,7 +134,7 @@ Which of the following statements is correct when you compile and run this progr
 meet on some node and have a common tail. If L1 has m nodes and L2 has n nodes, then what is  
 the best time complexity to check if the two linked lists meet and to find out the meeting point?  
 (Only O(1) constant amont of extra storage space is allowed.)  
-    
+      
    A. O((m+n)*log(m+n))  
    B. O(m*n)  
    C. O(m+n)  
