@@ -80,17 +80,17 @@ equal size need to be in original order, and cannot be inversed.
 9. A binary tree has 7 nodes, which are denoted as A, B, C, D, E, F, and G. When the tree is walked  
 in pre-order, the route is A-B-D-G-C-E-F. When this tree is wealked in in-order, the route is  
 D-G-B-A-E-C-F. Which of the following is the correct route when the tree is walked in  
-post-order?  
+post-order?
 
-    A. A-B-D-G-E-F-C  
+    A. A-B-D-G-E-F-C
 
-    B. G-D-B-A-E-F-C  
+    B. G-D-B-A-E-F-C
 
-    C. D-B-G-A-C-E-F  
+    C. D-B-G-A-C-E-F
 
-    D. G-D-B-E-F-C-A  
+    D. G-D-B-E-F-C-A
 
-    E. None of the above  
+    E. None of the above
 
 10. Which of following entities CANNOT be shared by multiple threads of a process?  
 
@@ -103,6 +103,7 @@ post-order?
     D. Stack  
 
     E. None of the above  
+
 
 13. Which of following numbers(in base 3) is closest to decimal number 0.8889?  
 
