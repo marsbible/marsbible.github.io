@@ -133,7 +133,7 @@ layout of a Linux program, from lower address to higher address?
 
 10. In C, someone writes the following function to reverse a one-dimensional array. For example,  
 when the input is {1,2,3,4,5}, then the result should be {5,4,3,2,1}.   
-{% highlight c %}
+
 int reverse_array(int *list, int len){
 
  int *p1,*p2;  
@@ -161,7 +161,7 @@ int reverse_array(int *list, int len){
 
  Return 0;  
 }  
-{% endhighlight %}
+
 
 Which of the following statements is correct when you compile and run this program?  
 
