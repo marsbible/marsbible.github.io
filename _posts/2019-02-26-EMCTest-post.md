@@ -120,15 +120,15 @@ post-order?
 9. For an IA-32 system, which of following choices is the correct order according to the memory  
 layout of a Linux program, from lower address to higher address?  
 
-   A. Heap, Stack, Text  
+    A. Heap, Stack, Text  
 
-   B. Text, Heap, Stack  
+    B. Text, Heap, Stack  
 
-   C. Heap, Text, Stack  
+    C. Heap, Text, Stack  
 
-   D. Text, Stack, Heap  
+    D. Text, Stack, Heap  
 
-   E. Stack, Heap, Text  
+    E. Stack, Heap, Text  
 
 
 10. In C, someone writes the following function to reverse a one-dimensional array. For example,  
