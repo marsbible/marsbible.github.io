@@ -6,6 +6,7 @@ image:
 comments: false
 ---
 
+
 *There before him, a glittering toy no Star-Child could resist, floated the planet Earth with all its peoples.*
 
 *He had returned in time. Down there on that crowded globe, the alarms would be flashing across the radar screens, the great tracking telescopes would be searching the skies - and history as men knew it would be drawing to a close.*
