@@ -1,6 +1,6 @@
 ---
 layout: page
-title: marble.code
+title:  
 image:
   feature: 2001-2.jpg
 comments: false
