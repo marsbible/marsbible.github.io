@@ -2,7 +2,8 @@
 layout: post
 title: lamda表达式 
 modified: 2019-02-26
-tags: [理论]
+tags: [lambda]
+categories: [技术]
 ---
 
 ### lamda表达式

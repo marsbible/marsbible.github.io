@@ -2,7 +2,8 @@
 layout: post
 title: 算法导论的一道课后练习题
 modified: 2019-02-26
-tags: [题目]
+tags: [算法导论]
+categories: [题目]
 ---
 
 这个题目的题意是这样的：

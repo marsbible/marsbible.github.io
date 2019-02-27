@@ -2,7 +2,8 @@
 layout: post
 title: KMP+QuickSort+BinarySearch三件套，面试必备 
 modified: 2015-11-20
-tags: [算法]
+tags: [面试]
+categories: [技术]
 ---
 
 ### KMP实现
