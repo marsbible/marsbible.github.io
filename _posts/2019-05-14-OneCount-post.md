@@ -41,7 +41,7 @@ int oneNumber(int n) {
   记H(N)为某个数的最高位的数字，比如H(12345)1,H(2345)=2
   记L(N)为某个数的长度，比如L(12345)=5，L(2345) = 4
 
-  F(N+1) = F(N-10^L(N)) +  H(N)*F(10^L(N)-1) + H(N)==1?(N-10^L(N)+1):10^L(N))
+  F(N) = F(N-H(N)*10^L(N)) +  H(N)*F(10^L(N)-1) + min(N-10^L(N)+1,10^L(N))
 
 */
 int H(int n) {
@@ -80,9 +80,9 @@ int oneNumber(int n) {
     int base = H(n)*exp10(L(n));
     int next = n - base;
 
-    int r = oneNumber2(next);
+    int r = oneNumber(next);
     for(int i=0;i<H(n);i++) {
-        r += oneNumber2(exp10(L(n))-1);
+        r += oneNumber(exp10(L(n))-1);
     }
 
     return r + (H(n)==1?(next+1):exp10(L(n)));
