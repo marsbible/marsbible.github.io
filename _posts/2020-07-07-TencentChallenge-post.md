@@ -72,19 +72,19 @@ exec(Decrypt(key,'JIvH7KUKFAKDu6ZfRjsV9VsCODat2VbDd6S+QAGKEXtGlSxvhUIhqHfXq/1EhG
 5. 题目5：1_2_3_4_5_6_7_8_9=-497,每处_填入1个运算符+-*/,且4个运算符必须都用上,使得等式成立(答案保证唯一),表达式为?
 
    暴力循环即可，4^8次循环毛毛雨啦，答案是1/2*3*4-5+6-7*8*9
-   ```python
-    ops = ['+', '-', '*', '/']
-    fs = '1%s2%s3%s4%s5%s6%s7%s8%s9'
+```python
+ops = ['+', '-', '*', '/']
+fs = '1%s2%s3%s4%s5%s6%s7%s8%s9'
 
-    for i in range(0, 65536):
-      ll = []
-      for j in range(0, 8):
-          ll.append(ops[(i >> (j * 2)) & 0x3])
+for i in range(0, 65536):
+  ll = []
+  for j in range(0, 8):
+      ll.append(ops[(i >> (j * 2)) & 0x3])
 
-      x = fs % tuple(ll)
-      if eval(x) == -497:
-        print(x)
-   ```
+  x = fs % tuple(ll)
+  if eval(x) == -497:
+    print(x)
+```
 6. 题目6：x^5-2*x^4+3*x^3-4*x^2-5*x-6=0, x(精确到小数点后14位)=?
 
    连续函数，x=0时，y=-6，x=3时，y=105，采用二分查找在0-3的区间搜索零点，答案是2.19488134060852
