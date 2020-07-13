@@ -73,17 +73,17 @@ exec(Decrypt(key,'JIvH7KUKFAKDu6ZfRjsV9VsCODat2VbDd6S+QAGKEXtGlSxvhUIhqHfXq/1EhG
 
    暴力循环即可，4^8次循环毛毛雨啦，答案是1/2*3*4-5+6-7*8*9
    ```python
-   ops = ['+', '-', '*', '/']
-   fs = '1%s2%s3%s4%s5%s6%s7%s8%s9'
+    ops = ['+', '-', '*', '/']
+    fs = '1%s2%s3%s4%s5%s6%s7%s8%s9'
 
-   for i in range(0, 65536):
-     ll = []
-     for j in range(0, 8):
-       ll.append(ops[(i >> (j * 2)) & 0x3])
+    for i in range(0, 65536):
+      ll = []
+      for j in range(0, 8):
+        ll.append(ops[(i >> (j * 2)) & 0x3])
 
-     x = fs % tuple(ll)
-     if eval(x) == -497:
-       print(x)
+      x = fs % tuple(ll)
+      if eval(x) == -497:
+        print(x)
    ```
 6. 题目6：x^5-2*x^4+3*x^3-4*x^2-5*x-6=0, x(精确到小数点后14位)=?
 
